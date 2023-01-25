@@ -6,7 +6,7 @@
     <groupId>com.bnym</groupId>
     <artifactId>bnymsms</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <relativePath/> <!-- lookup parent from repository -->
+    <relativePath>../<relativePath/> <!-- lookup parent from repository -->
   </parent>
   <packaging>pom</packaging>
 
